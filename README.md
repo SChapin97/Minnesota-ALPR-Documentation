@@ -20,7 +20,8 @@
 - Enable watchdogs, researchers, and Minnesota consumers to find ALPR data, create requests for governmental data, and contribute to the privacy-focused community against abuses of mass surveillance platforms.
 
 ### Files
-- List of and links to files coming as the project grows.
+- [Data Practices Act Responses](dpa_documents)
+  - This is a directory for data received from DPA (Minnesota Governmental Data Protection Act) requests for city, county, and miscellaneous law enforcement agencies.
 
 ### Coming soon
 - [ ] Minnesota law enforcement agency contacts for DPA (Minnesota Governmental Data Protection Act) requests.
