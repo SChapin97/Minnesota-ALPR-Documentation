@@ -125,29 +125,29 @@ def build_agency_mapping(items: List[dict]) -> Dict[str, dict]:
 # MAIN ASYNC ENTRY POINT
 # --------------------------------------------------------------
 async def main_async() -> None:
-    print("Fetching the live page…")
+#    print("Fetching the live page…")
     rendered_html = await fetch_rendered_html(TARGET_URL)
 
-    print("Extracting the __NEXT_DATA__ JSON payload…")
+#    print("Extracting the __NEXT_DATA__ JSON payload…")
     next_data = get_next_data_json(rendered_html)
 
-    print(" Pulling accordion items (one per agency)…")
+#    print(" Pulling accordion items (one per agency)…")
     accordion_items = extract_accordion_items(next_data)
 
     if not accordion_items:
         sys.exit("ERROR: No accordion data found – the page structure may have changed.")
 
-    print("Building the agency → locations dictionary…")
+#    print("Building the agency -> locations dictionary…")
     agencies = build_agency_mapping(accordion_items)
 
     pretty = json.dumps(agencies, indent=2, ensure_ascii=False)
-    print("\n=== LPR AGENCIES ===")
-    print(pretty)
+#    print("\n=== LPR AGENCIES ===")
+#    print(pretty)
 
     if OUTPUT_JSON:
         try:
             OUTPUT_JSON.write_text(pretty, encoding="utf-8")
-            print(f"\nResults also saved to {OUTPUT_JSON}")
+#            print(f"\nResults also saved to {OUTPUT_JSON}")
         except Exception as exc:
             print(f"\nWARNING: Could not write JSON file: {exc}")
 

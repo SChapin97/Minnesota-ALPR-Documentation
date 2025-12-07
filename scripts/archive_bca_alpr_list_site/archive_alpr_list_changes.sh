@@ -1,10 +1,10 @@
 #!/bin/sh
 
 if [ -d "venv" ]; then
-    echo "venv exists"
+#    echo "venv exists"
     . venv/bin/activate
 else
-    echo "venv does not exist"
+#    echo "venv does not exist"
     sh setup.sh
     . venv/bin/activate
 fi
@@ -27,3 +27,4 @@ else
     rm lpr_agencies.json
 fi
 
+rm -rf venv
