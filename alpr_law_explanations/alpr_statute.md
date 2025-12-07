@@ -6,15 +6,15 @@
 
 
 ## Table of Contents - Subdivisions
-- [Definitions](#Subdivision-1:-Definitions)
-- [Data collection; classification; use restrictions](#Subdivision-2:-Data-collection;-classification;-use-restrictions)
-- [Limitations; certain camera systems](#Subdivision-2a:-Limitations;-certain-camera-systems)
-- [Destruction of data required](#Subdivision-3:-Destruction-of-data-required)
-- [Sharing among law enforcement agencies](#Subdivision-4:-Sharing-among-law-enforcement-agencies)
-- [Log of use required](#Subdivision-5:-Log-of-use-required)  
-- [Biennial audit](#Subdivision-6:-Biennial-audit)
-- [Authorization to access data](#Subdivision-7:-Authorization-to-access-data)
-- [Notification to Bureau of Criminal Apprehension](#Subdivision-8:-Notification-to-Bureau-of-Criminal-Apprehension)
+- [Definitions](#Subdivision-1-Definitions)
+- [Data collection; classification; use restrictions](#Subdivision-2-Data-collection-classification-use-restrictions)
+- [Limitations; certain camera systems](#Subdivision-2a-Limitations-certain-camera-systems)
+- [Destruction of data required](#Subdivision-3-Destruction-of-data-required)
+- [Sharing among law enforcement agencies](#Subdivision-4-Sharing-among-law-enforcement-agencies)
+- [Log of use required](#Subdivision-5-Log-of-use-required)  
+- [Biennial audit](#Subdivision-6-Biennial-audit)
+- [Authorization to access data](#Subdivision-7-Authorization-to-access-data)
+- [Notification to Bureau of Criminal Apprehension](#Subdivision-8-Notification-to-Bureau-of-Criminal-Apprehension)
 
 
 ---
