@@ -5,11 +5,10 @@
   - Not all ALPRs are stationary (some are attached to moving vehicles)
   - Not all ALPRs are owned/leased/operated by law enforcement agencies
   - Not all ALPRs are stationed in high traffic locations (e.g. stationary cameras with ALPR software that are stationed in high-security locations such as private parking lots)
-- Minnesota has a specific statute (13.824) for regulations surrounding ALPRs (and some additional regulations that are defined outside of the statute)
-  - https://www.revisor.mn.gov/statutes/cite/13.824
-  - Minnesota has one of the most restrictive laws in the United States, but there are some gaps in the law that make enforcement somewhat difficult (and make this documentation useful).
+- Minnesota has a specific statute ([statute 13.824](https://www.revisor.mn.gov/statutes/cite/13.824)) for regulations surrounding ALPRs (and some additional regulations that are defined outside of the statute)
+  - Opinion: Minnesota has one of the most restrictive laws in the United States, but there are some gaps in the law that make enforcement somewhat difficult (and make this documentation useful).
     - Example: 13.824 subdivision 8 states that all ALPRs subject to the statute must be registered with the Bureau of Criminal Apprehensions and be made available on a site (https://dps.mn.gov/divisions/bca/data-and-reports/agencies-use-lprs-lpr), however *the agency* may claim that the location of one or more of their ALPRs should be redacted because the location is "security information"
-      - "Security information" is defined in statute 13.37 subdivision 1(a) (https://www.revisor.mn.gov/statutes/cite/13.37) as "government data the disclosure of which the responsible authority determines would be **likely to substantially jeopardize the security of information, possessions, individuals or property** against theft, tampering, improper use, attempted escape, illegal disclosure, trespass, or physical injury."
+      - "Security information" is defined in [statute 13.37 subdivision 1(a)](https://www.revisor.mn.gov/statutes/cite/13.37#stat.13.37.1) as "government data the disclosure of which the responsible authority determines would be **likely to substantially jeopardize the security of information, possessions, individuals or property** against theft, tampering, improper use, attempted escape, illegal disclosure, trespass, or physical injury."
       - The "security information" cop-out (pun intended) is so broad that it could apply to every stationary ALPR which would defeat the entire purpose of the subdivision.
     - It's also not uncommon for agencies to simply not submit their list of ALPRs to the Bureau of Criminal Apprehensions at all, which is the primary reason behind the creation of this resource in general.
 
@@ -19,13 +18,24 @@
 - Provide quick links to definitions, resources, and communities where ALPR information is discussed.
 - Enable watchdogs, researchers, and Minnesota consumers to find ALPR data, create requests for governmental data, and contribute to the privacy-focused community against abuses of mass surveillance platforms.
 
-### Files
-- [Data Practices Act Responses](dpa_documents)
-  - This is a directory for data received from DPA (Minnesota Governmental Data Protection Act) requests for city, county, and miscellaneous law enforcement agencies.
+### More reading
+- [Explanation of the ALPR law in this repository](alpr_law_explanations/alpr_statute.md)
 
-### Coming soon
+### Files
+- [Data Practices Act Responses](public_records_documents/dpa_documents)
+  - This is a directory for data received from DPA (Minnesota Governmental Data Protection Act) requests for city, county, and miscellaneous law enforcement agencies.
+- [ALPR Audit Results](public_records_documents/audit_results)
+  - This is a directory for (publicly available) audit results which are required biennially (every 2 years) by Minnesota law ([statute 13.824, subdivision 6](https://www.revisor.mn.gov/statutes/cite/13.824#stat.13.824.6))
+
+### Links
+- [State mandated biennial edits of Automated License Plate Readers and the data they collect](https://www.lrl.mn.gov/mndocs/mandates_detail?orderid=8735)
+- [Bureau of Criminal Apprehension list of Automated License Plate Readers by law enforcement agency](https://dps.mn.gov/divisions/bca/data-and-reports/agencies-use-lprs-lpr)
+
+### Coming soon / TODO
 - [ ] Minnesota law enforcement agency contacts for DPA (Minnesota Governmental Data Protection Act) requests.
-- [ ] A directory for information gathered from DPA requests (mainly ALPR contracts and other written communications).
+- [ ] [Explanation of the Minnesota Governmental Data Practices Act (MN specific FOIA)](alpr_law_explanations/minnesota_governmental_data_practices_act.md)
+- [ ] Sample Minnesota Governmental Data Practices Act request form
+- [ ] Compress pdfs so it doesn't take forever to `git push` / `git clone`.
 
 ### How you can help
 - Create a github pull request if you have information, or create a github issue if you have any questions or want to know how to contribute before this section has been fully fleshed out.
