@@ -25,7 +25,7 @@
   - Capable of recording data on or taking photographs of a vehicle or its license plate
   - Capable of comparing the collected data and photographs to existing law enforcement databases for investigative purposes
 - Automated License Plate Readers may be owned or operated by either a law enforcement agency or a non-governmental entity to the extent that the data collected by the reader is shared with a law enforcement agency.
-- As defined in [Limitations; certain camera systems](#Subdivision-2a:-Limitations;-certain-camera-systems), a "traffic safety camera" cannot be used as an Automated License Plate Reader.
+- As defined in [Limitations; certain camera systems](#Subdivision-2a-Limitations-certain-camera-systems), a "traffic safety camera" cannot be used as an Automated License Plate Reader.
 
 
 ### Subdivision 2: Data collection; classification; use restrictions
@@ -58,7 +58,7 @@
 
 
 ### Subdivision 4: Sharing among law enforcement agencies
-- **Automated License Plate Reader data not related to an active criminal investigation may only be shared with/disseminated to another law enforcement agency upon meeting the standards for requesting data provided in [Subdivision 7: Authorization to access data](#Subdivision-7:-Authorization-to-access-data)**
+- **Automated License Plate Reader data not related to an active criminal investigation may only be shared with/disseminated to another law enforcement agency upon meeting the standards for requesting data provided in [Subdivision 7: Authorization to access data](#Subdivision-7-Authorization-to-access-data)**
 - If Automated License Plate Reader data is shared with another law enforcement agency under this subdivision, **the receiving agency must comply with all data classification, destruction, and security requirements of this section.**
 - Automated License Plate Reader **data not related to an active criminal investigation may not be shared with/disseminated to/sold to/traded with any other individual or entity** unless explicitly authorized by this subdivision or other law.
 
@@ -80,12 +80,12 @@
 
 
 ### Subdivision 6: Biennial audit
-- In addition to the log required under [subdivision 5](#Subdivision-5:-log-of-use-required), the law enforcement agency must maintain records showing the date and time Automated License Plate Reader data was collected and the applicable classification of the data. **The law enforcement agency shall arrange for an independent, biennial (every two years) audit of the records** to determine whether the data currently in the records are:
+- In addition to the log required under [subdivision 5](#Subdivision-5-log-of-use-required), the law enforcement agency must maintain records showing the date and time Automated License Plate Reader data was collected and the applicable classification of the data. **The law enforcement agency shall arrange for an independent, biennial (every two years) audit of the records** to determine whether the data currently in the records are:
   - Classified
   - How the data is used
   - Whether they are destroyed as required under this section
-  - Verify the compliance with [subdivision 7](#Subdivision-7:-Authroization-to-access-data)
-- **If the commissioner of administration believes that a law enforcement agency is not complying with this section or other applicable law, the commissioner may order a law enforcement agency to arrange for additional independent audits.** Data in the records required under this paragraph are classifeid as provided in [subdivision 2](#Subdivision-2:-Data-collection;-classification;-use-restrictions)
+  - Verify the compliance with [subdivision 7](#Subdivision-7-Authroization-to-access-data)
+- **If the commissioner of administration believes that a law enforcement agency is not complying with this section or other applicable law, the commissioner may order a law enforcement agency to arrange for additional independent audits.** Data in the records required under this paragraph are classifeid as provided in [subdivision 2](#Subdivision-2-Data-collection-classification-use-restrictions)
 - The results of the audit are public. The commissioner of administration shall review the results of the audit. **If the commissioner determines that there is a pattern of substantial noncompliance with this section by the law enforcement agency, the agency must immediately suspend operation of all Automated License Plate Reader devices until the commissioner has authorized the agency to reinstate their use.** An order of suspension under this paragraph may be issued by the commissioner, upon review of the results of the audit, review of the applicable provisions of this chapter, and after providing the agency a reasonable opportunity to respond to the audit's findings.
 - A report summarizing the results of each audit must be provided to the commissioner of administration, to the chairs and ranking minority members of the committees of the house of representatives and the senate with jurisdiction over data practices and public safety issues, and to the Legislative Commission on Data Practices and Personal Data Privacy no later than 30 days following the completion of the audit.
   - (Some of? all of?) these audit results can be found here: https://www.lrl.mn.gov/mndocs/mandates_detail?orderid=8735
