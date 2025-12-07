@@ -25,7 +25,7 @@
   - Capable of recording data on or taking photographs of a vehicle or its license plate
   - Capable of comparing the collected data and photographs to existing law enforcement databases for investigative purposes
 - Automated License Plate Readers may be owned or operated by either a law enforcement agency or a non-governmental entity to the extent that the data collected by the reader is shared with a law enforcement agency.
-- As defined in [Limitations; certain camera systems](#Subdivision-2a-Limitations-certain-camera-systems), a "traffic safety camera" cannot be used as an Automated License Plate Reader.
+- As defined in [Subdivision 2a: Limitations; certain camera systems](#Subdivision-2a-Limitations-certain-camera-systems), a "traffic safety camera" cannot be used as an Automated License Plate Reader.
 
 
 ### Subdivision 2: Data collection; classification; use restrictions
@@ -84,7 +84,7 @@
   - Classified
   - How the data is used
   - Whether they are destroyed as required under this section
-  - Verify the compliance with [subdivision 7](#Subdivision-7-Authroization-to-access-data)
+  - Verify the compliance with [subdivision 7](#Subdivision-7-Authorization-to-access-data)
 - **If the commissioner of administration believes that a law enforcement agency is not complying with this section or other applicable law, the commissioner may order a law enforcement agency to arrange for additional independent audits.** Data in the records required under this paragraph are classifeid as provided in [subdivision 2](#Subdivision-2-Data-collection-classification-use-restrictions)
 - The results of the audit are public. The commissioner of administration shall review the results of the audit. **If the commissioner determines that there is a pattern of substantial noncompliance with this section by the law enforcement agency, the agency must immediately suspend operation of all Automated License Plate Reader devices until the commissioner has authorized the agency to reinstate their use.** An order of suspension under this paragraph may be issued by the commissioner, upon review of the results of the audit, review of the applicable provisions of this chapter, and after providing the agency a reasonable opportunity to respond to the audit's findings.
 - A report summarizing the results of each audit must be provided to the commissioner of administration, to the chairs and ranking minority members of the committees of the house of representatives and the senate with jurisdiction over data practices and public safety issues, and to the Legislative Commission on Data Practices and Personal Data Privacy no later than 30 days following the completion of the audit.
