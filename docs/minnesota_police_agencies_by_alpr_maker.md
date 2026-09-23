@@ -1,0 +1,264 @@
+# Mobile ALPRs
+
+## Axon Mobile ALPRs
+- Anoka PD
+- Anoka County SO
+- Blaine PD
+- Champlin PD
+- Grand Rapids PD
+- Hastings PD
+- Mankato PD
+- Maplewood PD
+- Robbinsdale PD
+- Shakopee PD
+- St. Cloud PD
+- St. Francis PD
+- West St. Paul PD
+- Waseca PD
+- University of Minnesota PD
+
+## Motorola Mobile ALPRs
+- Deephaven PD
+- Oakdale PD
+
+## Utility, Inc mobile ALPRs
+- Olmsted County SO
+
+## BOSS mobile ALPRs
+- Hennepin County SO
+- Minnesota State Patrol
+- Olmsted County SO
+
+
+# Stationary ALPRs
+
+## Flock Safety stationary ALPRs
+- Alexandria PD
+  - https://transparency.flocksafety.com/alexandria-mn-pd
+- Anoka PD
+  - https://transparency.flocksafety.com/anoka-mn-pd/
+- Anoka County SO
+  - https://transparency.flocksafety.com/anoka-county-mn-so
+- Becker County SO
+  - https://transparency.flocksafety.com/becker-county-mn-so/
+- Belle Plaine PD
+  - No transparency portal
+- Blaine PD
+  - https://transparency.flocksafety.com/blaine-mn-pd/
+- Brooklyn Center PD
+  - https://transparency.flocksafety.com/brooklyn-center-mn-pd/
+- Brooklyn Park PD
+  - https://transparency.flocksafety.com/brooklyn-park-mn-pd/
+- Champlin PD
+  - https://transparency.flocksafety.com/champlin-mn-pd/
+- Chisago County SO
+  - https://transparency.flocksafety.com/chisago-county-mn-so/
+- Columbia Heights PD
+  - https://transparency.flocksafety.com/columbia-heights-mn-pd/
+- Coon Rapids PD
+  - https://transparency.flocksafety.com/coon-rapids-mn-pd/
+- Corcoran PD
+  - https://transparency.flocksafety.com/corcoran-mn-pd/
+- Cottage Grove PD
+  - No transparnecy portal, personally verified they have Flock systems
+- Crow Wing County SO
+  - https://transparency.flocksafety.com/crow-wing-county-mn-so/
+- Dakota County SO
+  - No transparency portal, confirmed myself it's flock
+- Dayton PD
+  - https://transparency.flocksafety.com/dayton-mn-pd/
+- Detroit Lakes PD
+  - https://transparency.flocksafety.com/detroit-lakes-mn-pd/
+- Edina PD
+  - https://transparency.flocksafety.com/edina-mn-pd/
+- Elk River PD
+  - https://transparency.flocksafety.com/elk-river-mn-pd/
+- Faribault PD
+  - https://transparency.flocksafety.com/faribault-mn-pd/
+- Forest Lake PD
+  - https://transparency.flocksafety.com/forest-lake-mn-pd/
+- Fridley PD
+  - https://transparency.flocksafety.com/fridley-mn-pd/
+- Grand Rapids PD
+  - https://transparency.flocksafety.com/grand-rapids-mn-pd/
+- Hennepin County SO
+  - https://transparency.flocksafety.com/hennepin-county-mn-so
+- Hopkins PD
+  - No transparency portal
+- Lakes Area PD
+  - https://transparency.flocksafety.com/lakes-area-mn-pd/
+- Lakeville PD
+  - https://transparency.flocksafety.com/lakeville-mn-pd/
+- Mankato PD
+  - No transparency portal
+- Maple Grove PD
+  - https://transparency.flocksafety.com/maple-grove-mn-pd
+- Maplewood PD
+  - https://transparency.flocksafety.com/maplewood-mn-pd/
+- Medina PD
+  - https://transparency.flocksafety.com/medina-mn-pd/
+- Mille Lacs County SO
+  - No transparency portal, official document says Flock - https://www.millelacs.mn.gov/DocumentCenter/View/5633/FLOCK-INFO-and-FAQ
+- Minetrista PD
+  - No transparency portal
+- Moorhead PD
+  - https://transparency.flocksafety.com/moorhead-mn-pd/
+- Mounds View PD
+  - https://transparency.flocksafety.com/mounds-view-mn-pd/
+- New Brighton PD
+  - https://transparency.flocksafety.com/new-brighton-dept-of-pub-safety-mn/
+- New Hope PD
+  - No transparency portal
+- New Prague PD
+  - https://transparency.flocksafety.com/new-prague-mn-pd/
+- North Branch PD
+  - No transparency portal, official document stating flock usage: https://www.northbranchmn.gov/491/Flock-Safety-Partnership
+- Onamia PD
+  - No clue after extensive research
+- Orono PD
+  - https://transparency.flocksafety.com/orono-mn-pd/
+- Owatonna PD
+  - https://transparency.flocksafety.com/owatonna-mn-pd/
+- Paul Bunyan Drug Task Force (c/o Beltrami County SO)
+  - https://transparency.flocksafety.com/paul-bunyan-task-force-mn/
+- Plainview PD
+  - No hard evidence it's a Flock LPR other than https://mytownview.com/minnesota/wabasha/plainview/community/surveillance
+- Plymouth PD
+  - https://transparency.flocksafety.com/plymouth-mn-pd/
+- Prior Lake PD
+  - https://transparency.flocksafety.com/prior-lake-mn-pd/
+- Ramsey PD
+  - https://transparency.flocksafety.com/ramsey-mn-pd/
+- Richfield PD
+  - No transparency portal, official page says Flock - https://www.atlasofsurveillance.org/a/MN0271800ALPR
+- Robbinsdale PD
+  - https://transparency.flocksafety.com/robbinsdale-mn-pd/
+- Rogers PD
+  - https://transparency.flocksafety.com/rogers-mn-pd/
+- Roseville PD
+  - https://transparency.flocksafety.com/roseville-mn-pd/
+- Sartell PD
+  - https://transparency.flocksafety.com/sartell-mn-pd/
+- Shakopee PD
+  - https://transparency.flocksafety.com/shakopee-mn-police-department
+- Sherburne County SO
+  - No transparency portal, official document shows flock usage: https://www.co.sherburne.mn.us/DocumentCenter/View/10487/SS4S-Grant-Statement-PDF?bidId=
+- South Lake Minnetonka PD
+  - https://transparency.flocksafety.com/south-lake-minnetonka-mn-pd/
+- South St. Paul PD
+  - https://transparency.flocksafety.com/south-saint-paul-mn-pd/
+- Spring Lake Park PD
+  - https://transparency.flocksafety.com/spring-lake-park-mn-pd/
+- St. Cloud PD
+  - https://transparency.flocksafety.com/st-cloud-mn-pd/
+- St. Louis County SO
+  - https://transparency.flocksafety.com/st-louis-county-mn-so/
+- St. Louis Park PD
+  - https://transparency.flocksafety.com/saint-louis-park-mn-pd/
+- Stillwater PD
+  - https://transparency.flocksafety.com/stillwater-mn-pd/
+- University of Minnesota PD
+  - https://transparency.flocksafety.com/university-of-minnesota-mn-pd-twin-cities/
+- Wayzata PD
+  - https://transparency.flocksafety.com/wayzata-mn-pd/
+- West Hennepin PD
+  - https://transparency.flocksafety.com/west-hennepin-mn-public-safety-department/
+- West St. Paul PD
+  - No transparency portal
+- Willmar PD
+  - https://transparency.flocksafety.com/willmar-mn-pd/
+- Winona PD
+  - No transparency portal, probably flock per news stories surrounding destruction: https://hitreader.com/post/when-license-plate-cameras-go-dark-the-winona-flock-theft-and-the-tech-behind-alpr/
+- Woodbury PD
+  - No transparency portal
+- Wright County SO
+  - https://transparency.flocksafety.com/wright-county-mn-so/
+- Wyoming PD
+  - https://transparency.flocksafety.com/wyoming-mn-pd/
+
+## Axon stationary ALPRs
+- Red Wing PD
+  - Already done by 404media
+  - Making the assumption they're using Axon for stationary ALPRs and not just mobile ALPRs
+
+## Milestone Systems stationary ALPRs
+- Mankato PD
+  - https://www.lrl.mn.gov/docs/2026/mandated/261353.pdf
+
+## Motorola stationary ALPRs
+- Eden Prairie PD
+  - Motorola (mobile and stationary)- https://www.edenprairiemn.gov/city-government/departments/police-department/about-the-police-department/automated-license-plate-readers
+
+## Not found via research:
+- Aitkin County SO
+  - No clue after extensive research
+- Beltrami County SO
+  - No clue after extensive research, news posts points towards flock - https://lptv.org/beltrami-co-board-hears-more-on-license-plate-readers-installed-in-bemidji/
+- Benson PD
+  - No clue after extensive research
+- Benton County SO
+  - No clue after extensive research
+- Bloomington PD
+  - No clue after extensive research
+- Caledonia PD
+  	- 2019 audit with minimal information, may not have any stationary LPRs
+- Dilworth PD
+  - No clue after extensive research
+- Eagan PD
+  - No clue after extensive research
+- Farmington PD
+  - No clue after extensive research
+- Golden Valley PD
+  - No clue after extenisve research
+- Hibbing PD
+  - No clue after extensive research
+- Hill City PD
+  - No clue after extensive research
+- Houston County SO
+  - No clue after extensive research
+- Hutchinson PD
+  - No clue after extensive research
+- Isanti PD
+  - No clue after extensive research
+- Isle PD
+  - No clue after extensive research
+- Kandiyohi County SO
+  - No clue after extensive research
+- Little Falls PD
+  - No clue after extensive research
+- Mille Lacs Tribal PD
+  - No clue after extensive research
+- Minneapolis PD
+  - No clue after extensive research
+- Minnetonka PD
+  - No clue after extensive research
+- Montevideo PD
+  - No clue after extensive research
+- Morgan PD
+  - No clue after extensive research
+- MSP Airport Police
+  - BOSS mobile, although not sure about stationary LPRs
+- North St. Paul PD
+  - No clue after extensive research
+- Oakdale PD
+  - Makes mention of 4 stationary ALPRs, not sure if they're also Motorola or if they're Flock - https://www.lrl.mn.gov/docs/2025/mandated/251753.pdf
+- Osseo PD
+  - No clue after extensive research
+- Pine County SO
+  - No clue after extensive research
+- Sauk Center PD
+  - No clue after extensive research
+- Sauk Rapids PD
+  - No clue after extensive research
+- St. Paul PD
+  - No clue after extensive research
+- Stearns County SO
+  - No clue after extensive research
+- Ramsey County SO
+  - No clue after extensive research
+- Rochester PD
+  - No clue after extensive research
+- Rosemount PD
+  - No clue after extensive searching
+- White Bear Lake PD
+  - No LPRs on the list yet
